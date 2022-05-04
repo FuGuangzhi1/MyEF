@@ -1,0 +1,12 @@
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.csproj.AssemblyReference.cache
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.GeneratedMSBuildEditorConfig.editorconfig
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.AssemblyInfoInputs.cache
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.AssemblyInfo.cs
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.csproj.CoreCompileInputs.cache
+H:\桌面\MyEFTestApi\MyEF\bin\Debug\net6.0\MyEF.deps.json
+H:\桌面\MyEFTestApi\MyEF\bin\Debug\net6.0\MyEF.dll
+H:\桌面\MyEFTestApi\MyEF\bin\Debug\net6.0\MyEF.pdb
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.dll
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\refint\MyEF.dll
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\MyEF.pdb
+H:\桌面\MyEFTestApi\MyEF\obj\Debug\net6.0\ref\MyEF.dll
